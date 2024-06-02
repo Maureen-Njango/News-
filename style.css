@@ -1,6 +1,5 @@
 body {
     font-family: Arial, sans-serif;
-    margin: 20px;
     background-color: #f4f4f4;
     color: #333;
 }
@@ -78,4 +77,22 @@ button{
    height: 880px;
    border-radius: 32px;
    margin-left: 2%;
+}
+
+
+
+/* search button  */
+
+
+
+nav{
+ background-color: #82bbf5;  
+ display: flex; 
+ justify-content: space-around;
+ height: 80px;
+}
+nav a{
+    text-decoration: none;
+    margin-top: 30px;
+    color: #333;
 }
