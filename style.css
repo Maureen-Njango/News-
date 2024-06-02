@@ -52,3 +52,30 @@ h1 {
 .article a:hover {
     text-decoration: underline;
 }
+
+  /* landing page styling */
+
+
+#landingpage{
+    font-size: xx-large;
+    color:white;
+}
+#landing{
+   display: flex;
+   gap: 5%;
+   background-color:rgb(10, 134, 216);
+   width: 1810px;
+   height: 940px;
+   align-items: center;
+}
+button{
+   border-radius: 12px;
+   width: 320px;
+   height: 70px;
+}
+.newsimg{
+   width: 850px;
+   height: 880px;
+   border-radius: 32px;
+   margin-left: 2%;
+}
