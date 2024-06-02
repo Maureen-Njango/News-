@@ -45,4 +45,6 @@ function displayNews(articles) {
   });
 }
 
+  
+
 fetchNews();
