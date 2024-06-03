@@ -63,8 +63,8 @@ h1 {
    display: flex;
    gap: 5%;
    background-color:rgb(10, 134, 216);
-   width: 1220px;
-   height: 625px;
+   width: 1620px;
+   height: 805px;
    align-items: center;
 }
 button{
@@ -73,8 +73,8 @@ button{
    height: 70px;
 }
 .newsimg{
-   width: 560px;
-   height: 621px;
+   width: 860px;
+   height: 721px;
    margin-top: 0;
    margin-left: 0;
 }
@@ -267,9 +267,6 @@ nav a{
     }
     
     /* search button  */
-    
-    
-    
     nav{
      background-color: #82bbf5;  
      display: flex; 
