@@ -1,16 +1,3 @@
-document.addEventListener('DOMContentLoaded', function() {
-  var searchButton = document.getElementById('searchButton');
-
-  // Add event listener to the button
-  searchButton.addEventListener('click', function() {
-      var searchTerm = document.getElementById("searchInput").value;
-      var searchURL = 'https://www.google.com/search?q=' + encodeURIComponent(searchTerm);
-      window.location.href = searchURL; // Redirect to Google search results
-  });
-});
-
-
-
 
 const apiKey = "8c0f81969a5b4d27b9f39aadfd60c9ca";
 const url = `https://newsapi.org/v2/top-headlines?country=us&apiKey=${apiKey}`;
