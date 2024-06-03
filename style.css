@@ -96,7 +96,7 @@ nav a{
     margin-top: 30px;
     color: #333;
 }
-@media screen and (min-width:280px) and (max-width: 460px){
+/* @media screen and (min-width:280px) and (max-width: 460px){
     #landingpage{
         font-size: xx-large;
         color:white;
@@ -138,4 +138,4 @@ nav a{
     
 
 
-}
+} */
