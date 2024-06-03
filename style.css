@@ -27,7 +27,7 @@ h1 {
     transform: scale(1.05);
 }
 .article img {
-   width: 250px;
+   width: 200px;
    height: auto;
    margin-bottom: 10px;
    border-radius: 5px;
@@ -56,15 +56,15 @@ h1 {
 
 
 #landingpage{
-    font-size: xx-large;
+    font-size: x-large;
     color:white;
 }
 #landing{
    display: flex;
    gap: 5%;
    background-color:rgb(10, 134, 216);
-   width: 1810px;
-   height: 940px;
+   width: 1040px;
+   height: 520px;
    align-items: center;
 }
 button{
@@ -73,8 +73,8 @@ button{
    height: 70px;
 }
 .newsimg{
-   width: 850px;
-   height: 880px;
+   width: 550px;
+   height: 500px;
    border-radius: 32px;
    margin-left: 2%;
 }
