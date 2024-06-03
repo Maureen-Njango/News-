@@ -98,7 +98,8 @@ nav a{
 }
 @media screen and (min-width:280px) and (max-width: 460px){
     body{
-        width: 100px;
+        width: 400px;
+        height: 500px;
     }
     #landingpage{
         font-size: xx-large;
