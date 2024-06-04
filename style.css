@@ -66,15 +66,16 @@ h1 {
    display: flex;
    gap: 5%;
    background-color:rgb(10, 134, 216);
-   width: 1055px;
-   height: 529px;
+   width: 1049px;
+   height: 545px;
    align-items: center;
    
 }
 button{
    border-radius: 12px;
-   width: 320px;
-   height: 70px;
+   width: 120px;
+   height: 50px;
+   margin-left: 170px;
 }
 .newsimg{
    width: 550px;
